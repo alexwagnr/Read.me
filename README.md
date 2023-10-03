@@ -1,1 +1,1 @@
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,js,react,node.js,html,css,jquery,bootstrap)](https://skills.thijs.gg)
